@@ -37,7 +37,7 @@ const servicesArray = [
                 <Col xs={12} md={8} >
                     <h2 className='text-center'>Servicios</h2>
                     <h4 className='pb-3 text-center'>checa algunos servicios</h4>
-                    <Row xs={12} md={3} className='g-4 mt-4'>
+                    <Row xs={1} md={3} className='g-4 mt-4'>
                         {servicesArray.map((servicios, index) => (
 
                             <CardServicios servicios={servicios} key={index}/>
