@@ -17,12 +17,12 @@ export default function Introduccion() {
             <div className='d-flex container-actions mt-5'>
               <div className='container-buttons'>
                 <Button className='p-3' 
-                onClick={() => console.log('click button')}>Get in Touch</Button>
-                <Button className='p-3'>Get in touch
+                onClick={() => console.log('click button')}>Contacto</Button>
+                <Button className='p-3'>Contacto
                 </Button>
                 </div>
                   <div className='btn-start-create'>
-                    <a href='#dynamic-form'>Start to Create 👉🏻</a>
+                    <a href='#dynamic-form'>Empezar a crear 👉🏻</a>
                   </div>
                 </div>
            

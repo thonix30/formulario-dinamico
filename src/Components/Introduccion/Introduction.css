@@ -1,9 +1,11 @@
+
+
 .introduction h1 {
     background-image: linear-gradient(108deg, 
-     #b16cea 8%,
-     #ff5e69 40%, 
-     #ff8a56 77%, 
-     #ffa84b 91%);
+    #6eb0ee 8%,
+    #56d872 40%, 
+    #ff8a56 77%, 
+    #af69e9 91%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -45,7 +47,7 @@
 .introduction .container-actions .container-buttons button:first-child {
     position: relative;
     z-index: 1;
-    background-color: #000;
+    background-color: #201f1f;
 }
 
 .introduction .container-actions .container-buttons button:last-child {
@@ -56,10 +58,10 @@
     bottom: 0;
     background-image: linear-gradient(
         108deg, 
-     #b16cea 8%,
-     #ff5e69 40%, 
+     #a0ccf5 8%,
+     #90eca4 40%, 
      #ff8a56 77%, 
-     #ffa84b 91%);
+     #bd80f0 91%);
      transform: translate(7px, 7px);
 }
 .introduction .container-actions .btn-start-create a {

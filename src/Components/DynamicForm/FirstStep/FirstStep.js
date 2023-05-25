@@ -43,7 +43,7 @@ export default function FirstStep() {
   return (
     <div>
       <h2>Coloca tu fruta favorita</h2>
-      <h4>Selecciona la fruta con click en el boton en 'next step'</h4>
+      <h4>Selecciona la fruta con click </h4>
       <Container className='p-5 text-center'>
         <Row>
           {fruits.map((fruit, index) => (
