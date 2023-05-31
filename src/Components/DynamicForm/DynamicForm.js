@@ -58,6 +58,6 @@ function getPageByStep (step, setStep) {
   } else if (step===2){
     return <SecondStep/>
   } else if (step=== 3){
-    return <ThirdStep/>
+    return <ThirdStep setStep={setStep}/>
   }
 }
